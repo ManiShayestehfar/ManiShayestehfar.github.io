@@ -6,11 +6,11 @@
 
 #### Languages: Farsi (Persian), English
 
-$\newline$
+
 ## Education 
 
 - B.S., Physics & Maths | University of Sydney (_2021-2025_)
-$\newline$
+
 
 ## Relevant Experience
 
@@ -28,7 +28,7 @@ The task of estimating stellar ages in the Milky Way is of great importance for 
 #### [Genetic Algorithm Optimisation of Spectrally Filtered Single Photons from Photon Pair Sources](https://drive.google.com/file/d/1dCTIcF8GGBGonhXffSXSvaUfLjUrh6QZ/view?usp=sharing) | (_2021_)
 Quantum information processing is highly dependent on pure single photons. The spectral correlations possessed by parametric heralded single-photons sources lead to a trade-off between the purity and the heralding success probability. This trade-off must be optimised to create an ideal source. This paper utilises computational genetic algorithms to attempt to find the optimal filter transmission function. This investigation was conducted during high school under the supervision of Daniel Blay.
 
-$\newline$
+
 
 ## Projects
 #### The Scientist Reachout Project | (_2021-2022_)
@@ -39,7 +39,7 @@ We initiated a decision to contact various scientists across the globe, learning
 A podcast series "PhysPod" initiated by the University of Sydney Physics Soceity in which we discuss with physicists around the campus about physics, science, academia, and life!
 [<img src="/assets/physpod.png" width="40%" height="20%">](https://youtu.be/RVgo1WyoVjk?si=14gmHRCZDfd5kRI4)
 
-$\newline$
+
 
 ## Completed Courses
 - DATA1901: Foundations of Data Science (Advanced)
@@ -63,14 +63,13 @@ $\newline$
 - PHYS2912: Physics 2B
 - PHYS2923: Astrophysics & Relativity
 
-$\newline$
+
 
 ## Prizes & Distinctions
 - 2021: Michael Kirby and John Singleton Prize for Originality, UNSW Cupcake Programming Competition (National 4th and Distinction)
 - 2022: Dalyell Scholarship, Dean’s Entry Scholarship
 - 2023: Sydney Quantum Academy Summer Research Scholarship
 
-$\newline$
 
 ## Extra-Curricular Activities
 - Sydney University Physics Society (PhySoc) General Executive Member Avid Programmer (for fun and work!)
