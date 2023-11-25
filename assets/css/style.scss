@@ -4,9 +4,9 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width:1400px;
-  // left side is 470
-  // 1400-470 = 930
+  width:1200px;
+  // left side is 270
+  // 1200-270 = 930
   // 30px free room
   margin:0 auto;
 }
@@ -17,8 +17,3 @@ section {
   padding-bottom:50px;
 }
 
-section {
-  width:470px;
-  float:left;
-  padding-bottom:50px;
-}
