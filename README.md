@@ -66,9 +66,11 @@ A podcast series "PhysPod" initiated by the University of Sydney Physics Soceity
 
 
 # Prizes & Distinctions
-- 2021: Michael Kirby and John Singleton Prize for Originality, UNSW Cupcake Programming Competition (National 4th and Distinction)
-- 2022: Dalyell Scholarship, Dean’s Entry Scholarship
 - 2023: Sydney Quantum Academy Summer Research Scholarship
+- 2022: Dalyell Scholarship, Dean’s Entry Scholarship
+- 2021: Michael Kirby and John Singleton Prize for Originality, UNSW Cupcake Programming Competition (National 4th and Distinction)
+
+
 
 
 # Extra-Curricular Activities
