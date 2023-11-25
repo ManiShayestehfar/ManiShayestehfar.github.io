@@ -1,13 +1,13 @@
 # Physics & Mathematics Student
 
-> Hi! My name is Māni (pronounced basically like 💸). I am currently an undergraduate science student @ USyd, majoring in Maths and Physics. I am highly interested in the latest Quantum as well as Astrophysics research and keep myself updated with the latest work in Physics. I am only just getting started with research but I would be interested and open to potential collaborations. 
+```Hi! My name is Māni (pronounced basically like 💸). I am currently an undergraduate science student @ USyd, majoring in Maths and Physics. I am highly interested in the latest Quantum as well as Astrophysics research and keep myself updated with the latest work in Physics. I am only just getting started with research but I would be interested and open to potential collaborations.``` 
 
 #### Technical Skills: Python, R, MATLAB, LaTeX, C, C#, Git, Shell, Microsoft Office Suit.
 
 #### Languages: Farsi (Persian), English
 
 ## Education 
-- B.S., Physics & Mathematics | The University of Sydney (_2021-2025_)
+- B.S., Physics & Maths | University of Sydney (_2021-2025_)
 
 ## Relevant Experience
 ### The Double-Slit Delayed-Choice Experiment Theoretical Analysis | (_2022-2023_)
