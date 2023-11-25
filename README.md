@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, R, MATLAB, LaTeX, C, C#, Git, Shell, Microsoft Office Suit.
 
-#### Languages: Farsi (Persian), English
+#### Languages: Farsi (Persian), English <br>
 
 
 # Education 
@@ -30,13 +30,11 @@ Quantum information processing is highly dependent on pure single photons. The s
 
 # Projects
 ### The Scientist Reachout Project | (_2021-2022_)
-We initiated a decision to contact various scientists across the globe, learning from the scientists’ experiences. We recorded and published some of these discussions on YouTube in a podcast format for everyone to access.
-<br class=”blank” />
+We initiated a decision to contact various scientists across the globe, learning from the scientists’ experiences. We recorded and published some of these discussions on YouTube in a podcast format for everyone to access.<br>
 [<img src="/assets/srop.jpg" width="40%" height="20%">](https://youtu.be/FLqQfglUu6E?si=X39re0hmbA4O0zwd)
 
 ### USyd Physics Society PhysPod (_2023-Present_)
-A podcast series "PhysPod" initiated by the University of Sydney Physics Soceity in which we discuss with physicists around the campus about physics, science, academia, and life!
-<br class=”blank” />
+A podcast series "PhysPod" initiated by the University of Sydney Physics Soceity in which we discuss with physicists around the campus about physics, science, academia, and life!<br>
 [<img src="/assets/physpod.png" width="40%" height="20%">](https://youtu.be/RVgo1WyoVjk?si=14gmHRCZDfd5kRI4)
 
 
