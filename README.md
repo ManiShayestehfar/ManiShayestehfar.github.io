@@ -74,7 +74,8 @@ A podcast series "PhysPod" initiated by the University of Sydney Physics Soceity
 
 
 # Extra-Curricular Activities
-- Sydney University Physics Society (PhySoc) General Executive Member Avid Programmer (for fun and work!)
+- Sydney University Physics Society (PhySoc) Treasurer
+- Avid Programmer (for fun and work!)
 - Electric/Classical Guitar Player
 - Hiking, Running, and Exercising overall
 - Philosophy (of Science and else) Enthusiast
