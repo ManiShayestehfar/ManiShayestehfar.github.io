@@ -10,6 +10,20 @@
 - B.S., Physics & Mathematics | The University of Sydney (_2021-2025_)
 
 ## Relevant Experience
+### The Double-Slit Delayed-Choice Experiment Theoretical Analysis | (_2022-2023_)
+The very fundamental mysteries within Quantum Mechanics are closely tied to the model's departures from a classical theory of light. In two series of reports (with potential publishing soon), we analyse John A. Wheeler's analogue of the famous Double-Slit experiment. We demonstrated in paper (1) that a variation of the experiment can be analysed completely classically using a proposed theoretical MZI setup. In paper (2), we specifically focused on Wheeler's initial analysis and showed that a non-retrocausal explanation is possible. The investigation was conducted under the supervision of Dr. Angela Karanjai.
+1. [The Double-Slit Delayed-Choice Experiment: A Classical Innovation](https://drive.google.com/file/d/1Z1Ekv4IFrXEj-aiK23WhPooqFIha595f/view?usp=sharing)
+2. [A Classical Interpretation of Wheeler’s Delayed-Choice Double-Slit Experiment](https://drive.google.com/file/d/1SaOmbkgVlZ0UW0UfzPIbecOeQBYLBZlj/view?usp=sharing)
+
+### Solving the Einstein Constraint Equation on Closed Manifolds | (_2023_)
+[TBD]
+
+### [The GALAH Survey: Remodelling 'Chemical Clocks'](https://drive.google.com/file/d/1-f8hNVROWnfSDRsBh6U_kl_lsGF0eAUd/view?usp=sharing) | (_2022_)
+The task of estimating stellar ages in the Milky Way is of great importance for Galactic Archaeologists today. In this paper, we utilised the GALAH DR4 data to investigate the further possibility of estimating stellar ages in the Milky Way through XGBoost’s gradient-boosting platform as a predictive model. The investigation was conducted under the supervision of Dr. Michael Hayden, and the SIfA team. 
+
+### [Genetic Algorithm Optimisation of Spectrally Filtered Single Photons from Photon Pair Sources](https://drive.google.com/file/d/1dCTIcF8GGBGonhXffSXSvaUfLjUrh6QZ/view?usp=sharing) | (_2021_)
+Quantum information processing is highly dependent on pure single photons. The spectral correlations possessed by parametric heralded single-photons sources lead to a trade-off between the purity and the heralding success probability. This trade-off must be optimised to create an ideal source. This paper utilises computational genetic algorithms to attempt to find the optimal filter transmission function. This investigation was conducted during high school under the supervision of Daniel Blay.
+
 
 ## Projects
 
