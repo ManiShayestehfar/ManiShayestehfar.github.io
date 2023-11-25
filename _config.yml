@@ -3,5 +3,4 @@ logo: /assets/profilephoto.jpg
 description: "```NameDotLastName03(at)gmail.com```"
 show_downloads: false
 theme: jekyll-theme-minimal
-github:
-  is_project_page: false
+is_project_page: false
