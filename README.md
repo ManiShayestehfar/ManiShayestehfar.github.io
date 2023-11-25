@@ -1,10 +1,12 @@
 ```Hi! My name is Māni (pronounced basically like 💸). I am currently an undergraduate science student @ USyd, majoring in Maths and Physics. I am highly interested in the latest Quantum as well as Astrophysics research and keep myself updated with the latest work in Physics. I am only just getting started with research but I would be interested and open to potential collaborations.``` 
 
+- Email: ```NameDotLastname03(at)gmail.com```
+- [LinkedIn](https://www.linkedin.com/in/manishayestehfar/)
+
 #### Technical Skills: Python, R, MATLAB, LaTeX, C, C#, Git, Shell, Microsoft Office Suit.
+#### Languages: Farsi (Persian), English  
 
-#### Languages: Farsi (Persian), English <br>
-
-
+  
 # Education 
 
 - B.S., Physics & Mathematics | The University of Sydney (_2021-2025_)
@@ -74,3 +76,4 @@ A podcast series "PhysPod" initiated by the University of Sydney Physics Soceity
 - Electric/Classical Guitar Player
 - Hiking, Running, and Exercising overall
 - Philosophy (of Science and else) Enthusiast
+- [Personal Blog](https://kafkaovsky.wordpress.com)
