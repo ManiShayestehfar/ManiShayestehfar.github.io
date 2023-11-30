@@ -19,9 +19,8 @@ The very fundamental mysteries within Quantum Mechanics are closely tied to the 
 1. [The Double-Slit Delayed-Choice Experiment: A Classical Innovation](https://drive.google.com/file/d/1Z1Ekv4IFrXEj-aiK23WhPooqFIha595f/view?usp=sharing)
 2. [A Classical Interpretation of Wheeler’s Delayed-Choice Double-Slit Experiment](https://drive.google.com/file/d/1SaOmbkgVlZ0UW0UfzPIbecOeQBYLBZlj/view?usp=sharing)
 
-### Solving the Einstein Constraint Equation on Closed Manifolds | (_2023_)
-[TBD]
-
+### [Solving the Einstein Constraint Equation on Closed Manifolds](https://drive.google.com/file/d/1yepmnZAcG0o7J2WaNLrIZDHoJ-h0B7wz/view?usp=sharing) | (_2023_)
+The initial data required to solve the Einstein Field Equations require certain restrictions and are not freely determinable. We investigate an approach from J. Isenberg (1995) which utilises the space of constant mean curvature (CMC) solutions to the Einstein Constraint Equations on a closed manifold. The set of solutions are derived using a conformal formulation and are evaluated for their uniqueness. This research project was completed under the supervision of [Dr. Haotian Wu](https://www.sydney.edu.au/science/about/our-people/academic-staff/haotian-wu.html).
 ### [The GALAH Survey: Remodelling 'Chemical Clocks'](https://drive.google.com/file/d/1-f8hNVROWnfSDRsBh6U_kl_lsGF0eAUd/view?usp=sharing) | (_2022_)
 The task of estimating stellar ages in the Milky Way is of great importance for Galactic Archaeologists today. In this paper, we utilised the GALAH DR4 data to investigate the further possibility of estimating stellar ages in the Milky Way through XGBoost’s gradient-boosting platform as a predictive model. The investigation was conducted under the supervision of [Dr. Michael Hayden](https://sifa.sydney.edu.au/people/), and the [SIfA](https://sifa.sydney.edu.au) team. 
 
