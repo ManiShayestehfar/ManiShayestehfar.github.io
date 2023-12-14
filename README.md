@@ -3,7 +3,7 @@
 - Email: ```NameDotLastname03(at)gmail.com```
 - [LinkedIn](https://www.linkedin.com/in/manishayestehfar/)
 
-#### Technical Skills: Python, R, MATLAB, LaTeX, C, C#, Git, Shell, Microsoft Office Suit.
+#### Technical Skills: Python, R, MATLAB, LaTeX, C, C#, Git, Shell, Microsoft Office Suite.
 #### Languages: Farsi (Persian), English  
 
   
