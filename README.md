@@ -51,16 +51,14 @@ A podcast series "PhysPod" initiated by the University of Sydney Physics Soceity
 - MATH1904: Discrete Mathematics
 - MATH1933: Multivariable Calculus & Modelling
 - MATH2923: Analysis
-
-#### Intermediate
 - PHYS1902: Physics 1B
+#### Intermediate
 - MATH2921: Vector Calculus & Differential Equations
 - MATH2922: Linear & Abstract Algebra
 - PHYS2921: Physics 2A
 - MATH3977: Lagrangian & Hamiltonian Dynamics
 - PHYS2912: Physics 2B
 - PHYS2923: Astrophysics & Relativity
-
 #### Senior
 - MATH3961: Metric Spaces
 - MATH3962: Rings, Fields, and Galois Theory
