@@ -41,26 +41,31 @@ A podcast series "PhysPod" initiated by the University of Sydney Physics Soceity
 
 
 # Completed Courses
+### Undergrads
+
+#### Junior
 - DATA1901: Foundations of Data Science (Advanced)
 - MATH1902: Linear Algebra
 - MATH1921: Calculus of One Variable
 - PHYS1901: Physics 1A
-- OLET1654: Pseudoscientific Thinking
-- OLET1640: Astronomy: from Big Bang to Darkness
-- OLET1672: Sustainability: Climate and Energy
 - MATH1904: Discrete Mathematics
 - MATH1933: Multivariable Calculus & Modelling
 - MATH2923: Analysis
+
+#### Intermediate
 - PHYS1902: Physics 1B
-- OLET2610: Foundations of Quantum Computing
-- OLET1638: Astronomy: from Stars to Black Holes
-- OLET2111: Global Ethics: Philosophy
 - MATH2921: Vector Calculus & Differential Equations
 - MATH2922: Linear & Abstract Algebra
 - PHYS2921: Physics 2A
 - MATH3977: Lagrangian & Hamiltonian Dynamics
 - PHYS2912: Physics 2B
 - PHYS2923: Astrophysics & Relativity
+
+#### Senior
+- MATH3961: Metric Spaces
+- MATH3962: Rings, Fields, and Galois Theory
+- PHYS3934: Quantum, Statistical, and Computational Physics
+- PHYS3936: Condensed Matter and Particle Physics
 
 
 
