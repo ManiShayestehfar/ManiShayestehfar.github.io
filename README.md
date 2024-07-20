@@ -28,6 +28,8 @@ The task of estimating stellar ages in the Milky Way is of great importance for 
 ### [Genetic Algorithm Optimisation of Spectrally Filtered Single Photons from Photon Pair Sources](https://drive.google.com/file/d/1dCTIcF8GGBGonhXffSXSvaUfLjUrh6QZ/view?usp=sharing) | (_2021_)
 Quantum information processing is highly dependent on pure single photons. The spectral correlations possessed by parametric heralded single-photons sources lead to a trade-off between the purity and the heralding success probability. This trade-off must be optimised to create an ideal source. This paper utilises computational genetic algorithms to attempt to find the optimal filter transmission function. This investigation was conducted during high school under the supervision of Daniel Blay.
 
+### [SQA Undergraduate Research Scholarship: Building Better Qubits](https://drive.google.com/file/d/1InVV0QUfvZgz5EofTuBAWD_mI7OTlEBy/view?usp=sharing) | (_2024_)
+Performing a quantum computation requires precise control of many, incredibly fragile quantum systems. Though the basic recipe for a quantum computer is relatively concrete, finding and constructing real world quantum systems that can completely satisfy these criteria has proven difficult. In this project, I recreated the mathematical computations of a Fluxonium circuit and simulated the results. During this research I learned about circuit QED and the "next-gen" superconducting qubits that are much more resilient to noise. This investigated under the supervision of [Dr. Thomas Smith](https://www.sydney.edu.au/science/about/our-people/academic-staff/thomas-b-smith.html).
 
 
 # Projects
