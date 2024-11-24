@@ -67,8 +67,10 @@ A podcast series "PhysPod" initiated by the University of Sydney Physics Soceity
 #### Senior
 - MATH3961: Metric Spaces
 - MATH3962: Rings, Fields, and Galois Theory
+- MATH3968: Differential Geometry
 - PHYS3934: Quantum, Statistical, and Computational Physics
 - PHYS3936: Condensed Matter and Particle Physics
+- PHYS3935: Electrodynamics & Optics
 
 
 
@@ -81,6 +83,7 @@ A podcast series "PhysPod" initiated by the University of Sydney Physics Soceity
 
 
 # Extra-Curricular Activities
+- Editing Director of the student-run University of Sydney Physics Magazine, Jeremy
 - Sydney University Physics Society (PhySoc) Treasurer
 - Avid Programmer (for fun and work!)
 - Electric/Classical Guitar Player
